@@ -1,8 +1,7 @@
-package com.irctc.controller.admin;
+package com.irctc.controllers.admin;
 
 import com.irctc.dto.TrainRouteDto;
 import com.irctc.service.TrainRouteService;
-import org.apache.coyote.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

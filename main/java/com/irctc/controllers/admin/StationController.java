@@ -1,4 +1,4 @@
-package com.irctc.controller.admin;
+package com.irctc.controllers.admin;
 
 import com.irctc.config.AppConstants;
 import com.irctc.dto.PagedResponse;
